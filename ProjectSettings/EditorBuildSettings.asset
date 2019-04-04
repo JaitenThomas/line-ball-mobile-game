@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Scenes/Main Menu.unity
+    guid: bcab21b3a8549a1499c024b974e55037
+  - enabled: 1
+    path: Assets/_Scenes/Shop.unity
+    guid: 68df57726553a2345a02b670f1d266ac
+  - enabled: 1
+    path: Assets/_Scenes/Setting.unity
+    guid: 62475a0c88d934b4a9811088b3ca32cb
+  - enabled: 1
+    path: Assets/_Scenes/Classic.unity
+    guid: 55b4223d7880a354aa43622d145ad815
+  - enabled: 1
+    path: Assets/_Scenes/Gap.unity
+    guid: 61e9b2eb4a19f5747b6c4e564cde3151
+  - enabled: 1
+    path: Assets/_Scenes/Hoop.unity
+    guid: 26f1d18cdea61ce4c86afc7a24be2cff
+  - enabled: 1
+    path: Assets/_Scenes/Protect.unity
+    guid: b0f9945319438d341bee54ada2021f15
+  - enabled: 1
+    path: Assets/_Scenes/Boost.unity
+    guid: 7a9c8b102c32e7341b9fe37b5e205a5b
+  - enabled: 1
+    path: Assets/_Scenes/Tutorial.unity
+    guid: 735bf573b1026f147a7dc1eb45a8737c
+  - enabled: 1
+    path: Assets/_Scenes/TutorialPlay.unity
+    guid: b820f1d0ca3fe494f809f69f63bb5fb2
+  m_configObjects: {}
